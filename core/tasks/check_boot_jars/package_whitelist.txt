@@ -264,3 +264,8 @@ org\.ifaa\.android\.manager.*
 com\.nvidia\.*
 com\.nvidia\.profilemanager\.*
 com\.nvidia\.NvCPLSvc\.*
+
+###################################################
+# PHH
+vendor\.samsung\.hardware\.radio\.V1_2
+vendor\.mediatek\.hardware\.radio\.V2_0
